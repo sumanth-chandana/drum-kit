@@ -1,2 +1,2 @@
-# drum-kit
-Using HTML, CSS, JavaScript.
+# Drum-kit
+A Drum-kit page using HTML, CSS and JavaScript.
